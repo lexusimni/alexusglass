@@ -49,4 +49,4 @@
 
 ### ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexusimni&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lexusimni&show_icons=true&theme=tokyonight)
