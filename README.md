@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Alexus Glass
+# 👋 Hi, I'm Alexus Glass (lexusimni)
 
 💻 **Software Engineer** | 🎓 **B.S. in Computer Science** | 📊 **Aspiring Data Scientist**  
-📍 Exploring **data science, AI, and advanced mathematics** to solve complex, real-world problems through research-driven solutions.
+📍 Exploring **data science, AI, and advanced mathematics** to solve complex, real‑world problems through research‑driven solutions.
 
 ---
 
@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### 📊 Data Science, ML & Analytics
+#### 📊 Data Science & ML
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=orange)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat)
 ![SHAP](https://img.shields.io/badge/-SHAP-20232A?style=flat)
@@ -33,19 +33,20 @@
 
 ### 🚀 Featured Projects
 
-- [**Customer Churn Prediction (XGBoost + SHAP)**](https://github.com/YOUR-USERNAME/customer-churn-prediction)  
-  _Predicting customer churn with explainable AI, hyperparameter tuning, and a deployed Streamlit app._
+- [**Customer Churn Prediction (XGBoost + SHAP)**](https://github.com/lexusimni/customer-churn-prediction)  
+  Predicting telecom churn with explainable AI, Optuna tuning, and a Streamlit app.
 
-*(More projects coming soon...)*
+*(More projects coming soon…)*
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexus-glass-248061237/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](lexusimnitech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 ---
 
 ### ⚡ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lexusimni&show_icons=true&theme=tokyonight)
