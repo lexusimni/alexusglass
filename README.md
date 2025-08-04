@@ -6,7 +6,7 @@
 
 ### 🔗 Projects You Might Care About
 
-🧠 Created A [**LLM-Powered Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that lets anyone ask questions about a spreadsheet and get smart answers, like talking to ChatGPT 
+🤖 Created A [**LLM-Powered Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that lets anyone ask questions about a spreadsheet and get smart answers, like talking to ChatGPT 
 
 📱 Worked on a [**Android APK Static Analyzer**](https://github.com/lexusimni/apk-static-analyzer) that checks Android apps for hidden permissions or suspicious behavior, useful for security teams and researchers
 
