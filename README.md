@@ -8,9 +8,9 @@
 
 🤖 Created A [**LLM-Powered Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that lets anyone ask questions about a spreadsheet and get smart answers, like talking to ChatGPT 
 
-📱 Worked on a [**Android APK Static Analyzer**](https://github.com/lexusimni/apk-static-analyzer) that checks Android apps for hidden permissions or suspicious behavior, useful for security teams and researchers
+📱 Worked on a [**Android APK Static Analyzer**](https://github.com/lexusimni/apk-static-analyzer) that checks Android apps for hidden permissions or suspicious behavior, useful for security teams and researchers. 
 
-📈 Predicts how much a store will sell, so businesses can plan inventory or staffing ahead of time → [**Retail Sales Forecasting**](https://github.com/lexusimni/retail-sales-forceasting)
+📈 My [**Retail Sales Forecasting**](https://github.com/lexusimni/retail-sales-forceasting) predicts how much a store will sell, so businesses can plan inventory or staffing ahead of time. Check it out ! 
 
 ---
 
