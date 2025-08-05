@@ -4,17 +4,18 @@
 
 ---
 
-### 🔗 Projects That Show Off My Awesomeness !
+### 🔗 Projects That Show Off My Awesomeness!
 
-🤖 Created A [**LLM-Powered Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that lets anyone ask questions about a spreadsheet and get smart answers, like talking to ChatGPT 
+🧠 Whipped up a [**Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that basically turns spreadsheets into ChatGPT. Ask it what’s poppin’ in the data ... it talks back like it’s got a degree.  
 
-📱 Worked on a [**Android APK Static Analyzer**](https://github.com/lexusimni/apk-static-analyzer) that checks Android apps for hidden permissions or suspicious behavior, useful for security teams and researchers. 
+📱 Built an [**APK Static Analyzer**](https://github.com/lexusimni/apk-static-analyzer) that peels Android apps like an onion 🧅 and calls out shady stuff. If your app’s acting sus, my tool’s snitchin’!!!
 
-📈 My [**Retail Sales Forecasting**](https://github.com/lexusimni/retail-sales-forceasting) predicts how much a store will sell, so businesses can plan inventory or staffing ahead of time. Check it out ! 
+📈 Dropped a [**Retail Sales Forecasting model**](https://github.com/lexusimni/retail-sales-forceasting) that tells stores what they’re gonna sell *before they know it themselves*. Crystal ball vibes but powered by pandas and Prophet.  
+
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Let’s Connect !!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237/)
 - ✉️ [Email Me](mailto:lexusimnitech@gmail.com)
