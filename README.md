@@ -1,6 +1,6 @@
 # hey, I’m Alexus 👋
 
-🧠 I make smart tools that explain themselves, check for red flags, and predict what’s next. Scroll if you’re curious !
+💡 I build smart tools that spill the tea on their own decisions, call out red flags, and predict the future like they’ve got psychic powers. Scroll if you're nosey 👀
 
 ---
 
