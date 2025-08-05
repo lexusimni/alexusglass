@@ -21,6 +21,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237/)
 - ✉️ [Email Me](mailto:lexusimnitech@gmail.com)
 
-> currently applying to data science programs & tech roles —  
+> currently applying to data science programs & tech roles
 > feel free to reach out
 
