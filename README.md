@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗 Projects You Might Care About
+### 🔗 Projects That Show Off My Awesomeness !
 
 🤖 Created A [**LLM-Powered Smart Query Assistant**](https://github.com/lexusimni/mock-llm-tabular-assistant) that lets anyone ask questions about a spreadsheet and get smart answers, like talking to ChatGPT 
 
